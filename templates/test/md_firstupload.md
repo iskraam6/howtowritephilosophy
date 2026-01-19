@@ -1,5 +1,5 @@
 ---
-author: Student McStudentFace
+author: Iskra Mandic
 title: My First Markdown Upload
 date: 2025-08-26
 course: Metaphysics
